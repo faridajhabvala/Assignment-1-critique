@@ -14,7 +14,7 @@ Killion and Asimov found that the graduation rate for student athletes is signif
 * and that the university cares more about winning games and getting money for their new stadium.
 
 ## What are the limitations of the data?
-* It doesn't show differences in the graduation rate of student athletes by sport (for example, if students who play water polo graduate significantly more than students who play football).
+* It doesn't show differences in the graduation rate of student athletes by sport (for example, if students who play water polo graduate significantly more than students who play football). In fact, UC Berkeley football players have the [lowest graduation rates](http://www.dailycal.org/2012/11/05/rankings-show-cal-football-team-has-lowest-graduation-rate-in-league/) in the PAC12 league, according to The Daily Californian.
 * It would also be great to include additional data that explains why in the 2002-2003 academic year, student athletes had a much higher graduation rate than all the years shown. 
 
 ## Can you find where this (original) data exists online? If so, post the relevant URLs. 
